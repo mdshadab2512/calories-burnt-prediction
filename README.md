@@ -8,6 +8,6 @@ ii)  The machine learning model employed in the project is XGBOOST Regressor mod
 
 iii  We have chosen Mean Absolute Error as a metric to compare accuracy
 
-iv)  After being trained on model,the model has mean absolute error of 0.96% on training set and 1.48% on test set 
+iv)  After being trained on model,the model has mean absolute error of 1.48% on test set which is quite well.
 
 
